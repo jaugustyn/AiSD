@@ -1,0 +1,104 @@
+Results in miliseconds
+Array size: 10
+
+Random numbers: 
+ * InsertionSort: t = 0,00028 +/- 0,00026
+ * MergeSort: t = 0,00075 +/- 0,00072
+ * QuickSortClassical: t = 0,00025 +/- 0,00014
+ * QuickSort: t = 0,00076 +/- 0,00202
+
+Sorted numbers:
+ * InsertionSort: t = 0,00008 +/- 0,00006
+ * MergeSort: t = 0,00075 +/- 0,00109
+ * QuickSortClassical: t = 0,00024 +/- 0,00009
+ * QuickSort: t = 0,00004 +/- 0,00005
+
+Numbers sorted in reverse:
+ * InsertionSort: t = 0,00022 +/- 0,00011
+ * MergeSort: t = 0,00073 +/- 0,00085
+ * QuickSortClassical: t = 0,00022 +/- 0,00009
+ * QuickSort: t = 0,00009 +/- 0,00003
+
+Almost sorted numbers:
+ * InsertionSort: t = 0,00009 +/- 0,00005
+ * MergeSort: t = 0,00048 +/- 0,00026
+ * QuickSortClassical: t = 0,00023 +/- 0,00012
+ * QuickSort: t = 0,00003 +/- 0,00005
+
+Few unique numbers:
+ * InsertionSort: t = 0,00013 +/- 0,00008
+ * MergeSort: t = 0,00075 +/- 0,00075
+ * QuickSortClassical: t = 0,00024 +/- 0,00013
+ * QuickSort: t = 0,00006 +/- 0,00009
+
+--------------------------------------------------------------------
+
+Array size: 1000
+
+Random numbers: 
+ * InsertionSort: t = 0,70401 +/- 0,01182
+ * MergeSort: t = 0,15327 +/- 0,00320
+ * QuickSortClassical: t = 0,09289 +/- 0,00156
+ * QuickSort: t = 0,02515 +/- 0,00357
+
+Sorted numbers:
+ * InsertionSort: t = 0,00374 +/- 0,00005
+ * MergeSort: t = 0,10274 +/- 0,01522
+ * QuickSortClassical: t = 0,04392 +/- 0,00204
+ * QuickSort: t = 0,00494 +/- 0,00054
+
+Numbers sorted in reverse:
+ * InsertionSort: t = 1,39398 +/- 0,06883
+ * MergeSort: t = 0,09818 +/- 0,00236
+ * QuickSortClassical: t = 0,04776 +/- 0,00213
+ * QuickSort: t = 0,00774 +/- 0,00088
+
+Almost sorted numbers:
+ * InsertionSort: t = 0,00487 +/- 0,00006
+ * MergeSort: t = 0,10225 +/- 0,00622
+ * QuickSortClassical: t = 0,04405 +/- 0,00138
+ * QuickSort: t = 0,00578 +/- 0,00085
+
+Few unique numbers:
+ * InsertionSort: t = 0,60122 +/- 0,02599
+ * MergeSort: t = 0,13025 +/- 0,00307
+ * QuickSortClassical: t = 0,16924 +/- 0,00298
+ * QuickSort: t = 0,01366 +/- 0,00268
+
+--------------------------------------------------------------------
+
+Array size: 100000
+
+Random numbers: 
+ * InsertionSort: t = 6880,71093 +/- 65,23466
+ * MergeSort: t = 22,18237 +/- 3,71567
+ * QuickSortClassical: t = 15,93635 +/- 0,03557
+ * QuickSort: t = 5,19192 +/- 0,01355
+
+Sorted numbers:
+ * InsertionSort: t = 0,37536 +/- 0,00086
+ * MergeSort: t = 11,29754 +/- 0,12555
+ * QuickSortClassical: t = 6,98102 +/- 0,02284
+ * QuickSort: t = 0,82465 +/- 0,00314
+
+Numbers sorted in reverse:
+ * InsertionSort: t = 13719,27884 +/- 49,78588
+ * MergeSort: t = 12,83918 +/- 4,46201
+ * QuickSortClassical: t = 7,41775 +/- 0,03256
+ * QuickSort: t = 1,26556 +/- 0,01248
+
+Almost sorted numbers:
+ * InsertionSort: t = 6,81844 +/- 0,01316
+ * MergeSort: t = 11,70735 +/- 0,11797
+ * QuickSortClassical: t = 8,35184 +/- 0,04372
+ * QuickSort: t = 1,46430 +/- 0,00287
+
+Few unique numbers:
+ * InsertionSort: t = 6664,55454 +/- 30,06618
+ * MergeSort: t = 16,52336 +/- 0,16060
+ * QuickSortClassical: t = 306,00643 +/- 0,51448
+ * QuickSort: t = 2,65736 +/- 0,03170
+
+--------------------------------------------------------------------
+
+Click enter to exit
